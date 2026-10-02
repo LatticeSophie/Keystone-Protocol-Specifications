@@ -95,12 +95,34 @@ Modern clinical environments frequently suffer from systemic administrative over
 3.  **Infrastructure as Governance:** Treat system compliance and data integrity as foundational code rather than manual overhead[cite: 4].
 
 ---
-[ VANGUARD-VERIFIED ][cite: 4]  
-🩺🐌⚡[cite: 4]
+[ VANGUARD-VERIFIED ]
+🩺🐌⚡
 
 
 ### SYSTEM UPDATE: VERSION 2.6 (DEPLOYED: 31-JULY-2026)
 * **Governance Architecture:** Deployed formal core specifications redefining governance as an active structural boundary—establishing the Zero Administrative Leakage metric and Vanguard-Verified Smart Card cryptographic audit trails[cite: 2].
 * **Frontline Alignment:** Bridged clinical sign-off authority with immutable physical anchors, ensuring systems generate safety rather than administrative drag[cite: 2].
+[ VANGUARD-VERIFIED ]
+🩺🐌⚡
+
+### REPOSITORY UPDATE: THE WEDGE & KEYSTONE ARCHITECTURE 2.7 (Deployed 02-October-2026)
+1. Defining The Wedge (The Operational Point of Entry)
+
+The Problem: Healthcare systems attempt to solve institutional burnout with top-down bureaucratic mandates or heavy enterprise software that adds thousands of extra clicks, transforming clinicians into manual data-entry bridges.
+
+The Mechanism: The Wedge is a hyper-focused, minimal-friction deployment model (such as two physical tablets in a live theater environment—one for the team leader, the other for the anaesthetic ODP) designed to absorb administrative tax right at the exact point of work.
+
+2. Squire-Core & Keystone (The Structural Stability Layer)
+
+Squire-Core: The modular software engine that greets the frontline team organically at the start of shift ("The list has changed slightly, would you like a fresh printed copy or are we using the tablet today?").
+
+Keystone: The foundational governance boundary ensuring data capture happens in-line, treating compliance as an active architectural structure rather than a retrospective audit trail.
+
+3. Strategic Positioning
+
+Moving away from heavy probabilistic wrappers or legacy monolithic tools.
+
+Establishing deterministic, edge-native clinical sovereignty where the system absorbs the administrative tax, protecting frontline cognitive bandwidth.
+
 [ VANGUARD-VERIFIED ]
 🩺🐌⚡
