@@ -130,7 +130,7 @@ Establishing deterministic, edge-native clinical sovereignty where the system ab
 🩺🐌⚡
 
 
-## REPOSITORY UPDATE: SQUIRE Stress Test Suite & LIVE STRESS-TESTING (DEPLOYED: 09-OCTOBER-2026)
+## REPOSITORY UPDATE: SQUIRE Keystone & Squire: System-Level Architecture & LIVE STRESS-TESTING (DEPLOYED: 09-OCTOBER-2026)
 
 **I. Operational Milestone: The Sovereign Stress-Test**
 Successfully executed live comparative stress-testing of the Squire modular architecture, pitting an unsigned generic AI model against the hardened Keystone Steward core. 
@@ -141,6 +141,10 @@ Successfully executed live comparative stress-testing of the Squire modular arch
 
 **III. Architectural Proof (Scenario 1: Unstable AAA)**
 Demonstrated deterministic edge-logic override during high-pressure procedural bypass attempts. The system successfully executed a **Pulsing Red Safety Override**, filtering out environmental static and enforcing immutable cryptographic audit trails without escalating interpersonal friction.
+
+### **Repository Documents & Briefings**
+* [Official Ledger: The Squire Stress-Test Suite Log](./Squire-Stress-Test-Ledger.md) — Unfiltered frontline stress-testing metrics and audit logs.
+* [Keystone & Squire: System-Level Architecture](./System-Architecture-and-Market-Position.md) — The technical thesis and legacy transcription comparison matrix.
 
 [ VANGUARD-VERIFIED ]  
 🩺🐌⚡
