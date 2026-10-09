@@ -1,4 +1,4 @@
-###Official repository for **Keystone, Squire-Core**, and the Watton Grid Consortium. Engineering edge-native operational governance to eliminate administrative tax and secure clinical sovereignty on the frontline.
+### Official repository for **Keystone, Squire-Core**, and the Watton Grid Consortium. Engineering edge-native operational governance to eliminate administrative tax and secure clinical sovereignty on the frontline.
 
 [ VANGUARD-VERIFIED ]
 🩺🐌⚡
