@@ -1,5 +1,7 @@
-# Scribe-Protocol-Specifications
-The architectural framework and system specifications for the Scribe Protocol—restoring clinical sovereignty and mitigating input friction on the healthcare frontline.
+###Official repository for **Keystone, Squire-Core**, and the Watton Grid Consortium. Engineering edge-native operational governance to eliminate administrative tax and secure clinical sovereignty on the frontline.
+
+[ VANGUARD-VERIFIED ]
+🩺🐌⚡
 
 ### 🛰️ SYSTEM UPDATE: VERSION 2.1 (DEPLOYED: 19-JUNE-2026)
 * **Operational Slot Compression:** Successfully optimized the primary Sovereign Forge engineering window to a sustainable 4-hour slot (08:00 to 14:00 with integrated buffers).
