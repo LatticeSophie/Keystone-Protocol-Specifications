@@ -157,3 +157,32 @@ Demonstrated deterministic edge-logic override during high-pressure procedural b
 
 [ VANGUARD-VERIFIED ]  
 🌍🐌⚡
+
+
+# Keystone Protocol & Specifications
+**Edge-Native Operational Governance & Sovereign Systems Architecture**
+
+## 🏛️ System Status: Operational & Evolving (Weeks 1–2) (Deployed 06/11/26)
+
+The Keystone Protocol continues to harden from first principles. Over the past two weeks, we have successfully bridged foundational systems architecture with sustainable human-in-the-loop workflows, proving that high-pressure engineering and personal wellbeing can scale in tandem.
+
+### ⚡ Key Milestones & Architectural Progress
+
+* **Agora Auditorium Consensus (RS 2 & RS 3):** Completed two rigorous Agora strategy sessions, formalizing the dual control planes (Technological vs. Human) and establishing the 6-Point Sovereign Constitution.
+* **Control Gate Refinement:** Narrowed execution timings across the four-independent-gate framework (G1–G4) and optimized the Scribe-Layer audit logging to eliminate administrative drag.
+* **Network & Community Deployment:** Hit a major milestone of **100 solid professional connections** on LinkedIn, establishing low-friction dialogue with mature industry voices while protecting personal energy boundaries.
+* **Operational Equilibrium:** Successfully harmonized background administrative workflows (forms, compliance, and structured data handling) with real-world pacing—demonstrating that low-friction architecture naturally creates balance between professional output and personal life.
+
+---
+
+### 🛡️ Core Architectural Pillars
+1. **Human Sovereignty:** Technology serves human priorities; human intent remains the ultimate binding authority.
+2. **Minimal Administration:** The Scribe-Layer acts as an automated air-lock, filtering digital noise and executing continuous administrative exorcism.
+3. **Proportionate Intelligence:** Deploying local-edge logic without unnecessary compute sprawl or administrative tax.
+4. **The Human Time Dividend:** Recovered time is returned entirely to the human operator—because *rest requires no metric*.
+
+---
+*Maintained by Sophie (LatticeSophie) via The Watton Grid Consortium.*
+
+[ VANGUARD-VERIFIED ]  
+🌍🐌⚡
