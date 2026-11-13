@@ -186,3 +186,38 @@ The Keystone Protocol continues to harden from first principles. Over the past t
 
 [ VANGUARD-VERIFIED ]  
 🌍🐌⚡
+
+# Sovereign Forge: Squire-Core & Scribe-Layer Architecture 13/11/26
+
+[![VANGUARD-VERIFIED](https://img.shields.io/badge/VANGUARD-VERIFIED-blue.svg)]()
+[![Domain: Sovereign Systems](https://img.shields.io/badge/Domain-Sovereign%2520Systems-green.svg)]()
+
+> *"Technology shall serve humanity. Intelligence shall remain proportionate. Administration shall remain minimal."*
+
+## Core Architecture
+Sovereign Forge is a lightweight, edge-first systems architecture designed to minimize administrative tax and protect the **Human Control Plane** across high-pressure environments (such as clinical operations and frontline workflows).
+
+### 1. The Dual Control Planes
+* **The Technological Control Plane:** Permissions, identities, automated logging, and edge data parsing.
+* **The Human Control Plane:** Attention, time, physical environment, and professional autonomy. 
+* *The Golden Rule:* The human control plane governs the technological control plane entirely.
+
+### 2. Key Components
+* **The Machine:** Deterministic local-edge execution running on standard hardware without heavy enterprise cloud bloat.
+* **The Scribe-Layer:** Silently parses unstructured logs, handover notes, and compliance provenance without duplicate manual entry.
+* **Squire-Core (The Safety Air-Lock):** Audits incoming telemetry for anomalies and missing identifiers. *Never Event Rule:* Automation can flag discrepancies, but never silently resolve clinical uncertainty.
+* **The Human Accountability Gate:** Presents a clean single-screen summary (`AI-PREPARED` vs. `HUMAN-VERIFIED`) for one-tap sovereign sign-off.
+
+### 3. The 6-Point Sovereign Constitution
+1. **Human Sovereignty:** Human intent remains permanently authoritative.
+2. **Environmental Stewardship:** Prioritizing local-edge efficiency over wasteful hyperscale server sprawl.
+3. **Minimal Administration:** Continuous *Administrative Exorcism* of redundant busywork.
+4. **Proportionate Intelligence:** Deploying the leanest adequate technical solution.
+5. **The Human Time Dividend:** Saved time is returned to the human, never re-invested into hustle metrics.
+6. **The Right to Remain Unproductive:** Rest requires no justification and no activity dashboards.
+
+## Deployment Governance
+RS4 mandates a **Shadow-Mode First** protocol: background verification and adversarial data-integrity checks must pass before any automated workflow interacts with live operational records.
+
+---
+**THE HUMAN HOLDS THE CROWN.** 🩺🐌⚡
